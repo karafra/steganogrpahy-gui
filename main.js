@@ -212,6 +212,7 @@ app.whenReady().then(async () => {
     width: 1080,
     height: 720,
     resizable: false,
+    icon: __dirname + "/public" + "/logo512.png",
     webPreferences: {
       contextIsolation: false,
       enableRemoteModule: true,
