@@ -3,9 +3,6 @@ import React, { useState } from 'react';
 
 import favicon from 'components/titlebar/img/favicon.png';
 import styles from 'components/titlebar/scss/Titlebar.module.scss';
-import MaximizeButton from './MaximizeButton';
-import ContractButton from './ContractButton';
-import MinimizeButton from './MinimizeButton';
 import { app } from '../../utils/services';
 import { CloseButton } from './CloseButton';
 
@@ -18,13 +15,6 @@ import { CloseButton } from './CloseButton';
 
 const Titlebar = () => {
 
-  const [ maximized, setMaximized ] = useState(false);
-
-  const handleMaximizeToggle = () => {
-    !maximized ? app.maximize() : app.unmaximize();
-    setMaximized(!maximized);
-  };
-
   return (
     <section className={ styles.titlebar }>
       <div>
@@ -33,12 +23,6 @@ const Titlebar = () => {
       </div>
 
       <div id="electron-window-title-buttons">
-        <MinimizeButton onClick={ app.minimize } />
-        {
-          maximized
-            ? <ContractButton onClick={ handleMaximizeToggle } />
-            : <MaximizeButton onClick={ handleMaximizeToggle } />
-        }
         <CloseButton onClick={ app.quit } />
       </div>
     </section>
