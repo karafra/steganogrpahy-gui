@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tabs tests snapshot tests should render component 1`] = `
+<div
+  className="container"
+>
+  <ul
+    className="inline"
+  >
+    <li
+      className="selected"
+      onClick={[Function]}
+      style={
+        Object {
+          "width": undefined,
+        }
+      }
+    >
+      test title
+    </li>
+    <li
+      onClick={[Function]}
+      style={
+        Object {
+          "width": undefined,
+        }
+      }
+    >
+      test title
+    </li>
+  </ul>
+  <div
+    className="tab"
+  >
+    <div
+      style={
+        Object {
+          "alignContent": "center",
+          "justifyContent": "center",
+        }
+      }
+    >
+      test children
+    </div>
+  </div>
+</div>
+`;

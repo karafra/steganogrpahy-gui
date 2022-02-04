@@ -1,0 +1,15 @@
+.container {
+  margin: 32px;
+}
+
+.outputTitle {
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+.payload {
+  height: 100vh;
+  width: 100vh;
+  overflow: auto;
+  overflow-x: hidden;
+}

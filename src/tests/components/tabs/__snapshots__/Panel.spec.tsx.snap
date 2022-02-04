@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Panel tests should load component 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "center",
+      "justifyContent": "center",
+    }
+  }
+>
+  Test child
+</div>
+`;

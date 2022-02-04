@@ -1,0 +1,27 @@
+ul {
+  margin: 0;
+}
+
+strong {
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.container {
+  text-align: center;
+  align-self: center;
+  justify-self: center;
+}
+
+.dropzone {
+  padding: 25px;
+  border: 3px dashed #eeeeee;
+  background-color: #fafafa;
+  color: #bdbdbd;
+  margin-bottom: 25px;
+}
+
+.image-preview {
+  height: 200px;
+  width: 200px;
+}
