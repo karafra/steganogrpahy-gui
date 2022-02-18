@@ -2,7 +2,7 @@ altgraph==0.17.2
 click==8.0.3
 Flask==2.0.3
 Flask-Cors==3.0.10
-itsdangerous==2.0.1
+itsdangerous==2.1.0
 Jinja2==3.0.3
 MarkupSafe==2.1.0
 numpy==1.22.2
