@@ -4,7 +4,7 @@ Flask==2.0.3
 Flask-Cors==3.0.10
 itsdangerous==2.1.1
 Jinja2==3.0.3
-MarkupSafe==2.1.0
+MarkupSafe==2.1.1
 numpy==1.22.3
 opencv-python==4.5.5.64
 pyinstaller==4.10
