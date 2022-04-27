@@ -29,7 +29,7 @@
     "react-is": "^18.1.0",
     "react-redux": "^7.2.8",
     "react-scripts": "5.0.1",
-    "react-test-renderer": "^18.0.0",
+    "react-test-renderer": "^18.1.0",
     "redux-form": "^8.3.8",
     "spectron": "^19.0.0",
     "ts-jest": "^27.1.4",
