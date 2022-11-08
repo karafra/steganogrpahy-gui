@@ -8,7 +8,7 @@ MarkupSafe==2.1.1
 numpy==1.23.4
 opencv-python==4.6.0.66
 pyinstaller==5.6.2
-pyinstaller-hooks-contrib==2022.11
+pyinstaller-hooks-contrib==2022.13
 simple-steganography==1.0.5
 six==1.16.0
 Werkzeug==2.2.2
