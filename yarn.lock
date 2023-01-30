@@ -1939,18 +1939,6 @@
     "@types/yargs" "^17.0.8"
     chalk "^4.0.0"
 
-"@jest/types@^29.4.1":
-  version "29.4.1"
-  resolved "https://registry.yarnpkg.com/@jest/types/-/types-29.4.1.tgz#f9f83d0916f50696661da72766132729dcb82ecb"
-  integrity sha512-zbrAXDUOnpJ+FMST2rV7QZOgec8rskg2zv8g2ajeqitp4tvZiyqTCYXANrKsM+ryj5o+LI+ZN2EgU9drrkiwSA==
-  dependencies:
-    "@jest/schemas" "^29.4.0"
-    "@types/istanbul-lib-coverage" "^2.0.0"
-    "@types/istanbul-reports" "^3.0.0"
-    "@types/node" "*"
-    "@types/yargs" "^17.0.8"
-    chalk "^4.0.0"
-
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/@jridgewell/gen-mapping/-/gen-mapping-0.1.1.tgz#e5d2e450306a9491e3bd77e323e38d7aff315996"
@@ -3794,10 +3782,10 @@ axe-core@^4.6.2:
   resolved "https://registry.yarnpkg.com/axe-core/-/axe-core-4.6.2.tgz#6e566ab2a3d29e415f5115bc0fd2597a5eb3e5e3"
   integrity sha512-b1WlTV8+XKLj9gZy2DZXgQiyDp9xkkoe2a6U6UbYccScq2wgH/YwCeI2/Jq2mgo0HzQxqJOjWZBLeA/mqsk5Mg==
 
-axios@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-1.2.5.tgz#858c129d286e7ee3b1e970961cde410ba3ea3740"
-  integrity sha512-9pU/8mmjSSOb4CXVsvGIevN+MlO/t9OWtKadTaLuN85Gge3HGorUckgp8A/2FH4V4hJ7JuQ3LIeI7KAV9ITZrQ==
+axios@^1.2.6:
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-1.2.6.tgz#eacb6d065baa11bad5959e7ffa0cb6745c65f392"
+  integrity sha512-rC/7F08XxZwjMV4iuWv+JpD3E0Ksqg9nac4IIg6RwNuF0JTeWoCo/mBNG54+tNhhI11G3/VDRbdDQTs9hGp4pQ==
   dependencies:
     follow-redirects "^1.15.0"
     form-data "^4.0.0"
@@ -8507,19 +8495,7 @@ jest-util@^28.1.3:
     graceful-fs "^4.2.9"
     picomatch "^2.2.3"
 
-jest-util@^29.0.0, jest-util@^29.4.0:
-  version "29.4.1"
-  resolved "https://registry.yarnpkg.com/jest-util/-/jest-util-29.4.1.tgz#2eeed98ff4563b441b5a656ed1a786e3abc3e4c4"
-  integrity sha512-bQy9FPGxVutgpN4VRc0hk6w7Hx/m6L53QxpDreTZgJd9gfx/AV2MjyPde9tGyZRINAUrSv57p2inGBu2dRLmkQ==
-  dependencies:
-    "@jest/types" "^29.4.1"
-    "@types/node" "*"
-    chalk "^4.0.0"
-    ci-info "^3.2.0"
-    graceful-fs "^4.2.9"
-    picomatch "^2.2.3"
-
-jest-util@^29.4.1:
+jest-util@^29.0.0, jest-util@^29.4.0, jest-util@^29.4.1:
   version "29.4.1"
   resolved "https://registry.yarnpkg.com/jest-util/-/jest-util-29.4.1.tgz#2eeed98ff4563b441b5a656ed1a786e3abc3e4c4"
   integrity sha512-bQy9FPGxVutgpN4VRc0hk6w7Hx/m6L53QxpDreTZgJd9gfx/AV2MjyPde9tGyZRINAUrSv57p2inGBu2dRLmkQ==
