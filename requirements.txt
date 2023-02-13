@@ -7,7 +7,7 @@ Jinja2==3.1.2
 MarkupSafe==2.1.2
 numpy==1.24.2
 opencv-python==4.7.0.68
-pyinstaller==5.7.0
+pyinstaller==5.8.0
 pyinstaller-hooks-contrib==2022.15
 simple-steganography==1.0.5
 six==1.16.0
