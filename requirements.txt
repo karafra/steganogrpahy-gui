@@ -11,4 +11,4 @@ pyinstaller==5.12.0
 pyinstaller-hooks-contrib==2023.3
 simple-steganography==1.0.5
 six==1.16.0
-Werkzeug==2.3.4
+Werkzeug==2.3.5
