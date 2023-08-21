@@ -53,7 +53,7 @@
     "eslint-plugin-standard": "^5.0.0",
     "jest": "^29.6.2",
     "jsdoc": "^4.0.2",
-    "sass": "^1.66.0"
+    "sass": "^1.66.1"
   },
   "optionalDependencies": {
     "electron-installer-debian": "^3.1.0"
