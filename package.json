@@ -41,7 +41,7 @@
     "@testing-library/user-event": "^14.5.1",
     "babel-eslint": "^10.1.0",
     "cross-env": "^7.0.3",
-    "electron": "^27.1.0",
+    "electron": "^27.1.2",
     "electron-devtools-installer": "^3.2.0",
     "electron-installer-dmg": "^4.0.0",
     "electron-packager": "^17.1.2",
