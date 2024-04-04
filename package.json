@@ -13,7 +13,7 @@
     "@types/jest": "^29.5.12",
     "@types/node": "^20.12.3",
     "@types/react": "^18.2.74",
-    "@types/react-dom": "^18.2.23",
+    "@types/react-dom": "^18.2.24",
     "@types/react-test-renderer": "^18.0.7",
     "axios": "^1.6.8",
     "electron-is-dev": "^3.0.1",
