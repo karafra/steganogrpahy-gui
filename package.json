@@ -9,7 +9,7 @@
     "@material/button": "^14.0.0",
     "@mui/icons-material": "^5.16.8",
     "@mui/material": "^5.16.8",
-    "@reduxjs/toolkit": "^2.3.0",
+    "@reduxjs/toolkit": "^2.4.0",
     "@types/jest": "^29.5.14",
     "@types/node": "^22.10.1",
     "@types/react": "^18.3.12",
