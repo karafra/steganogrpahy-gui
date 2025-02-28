@@ -33,7 +33,7 @@
     "redux-form": "^8.3.10",
     "spectron": "^19.0.0",
     "ts-jest": "^29.2.6",
-    "typescript": "^5.7.3"
+    "typescript": "^5.8.2"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.6.3",
