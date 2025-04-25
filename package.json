@@ -15,7 +15,7 @@
     "@types/react": "^18.3.13",
     "@types/react-dom": "^18.3.1",
     "@types/react-test-renderer": "^19.1.0",
-    "axios": "^1.8.4",
+    "axios": "^1.9.0",
     "electron-is-dev": "^3.0.1",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.8",
