@@ -40,7 +40,7 @@
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^14.6.1",
     "babel-eslint": "^10.1.0",
-    "cross-env": "^10.0.0",
+    "cross-env": "^10.1.0",
     "electron": "^38.2.0",
     "electron-devtools-installer": "^4.0.0",
     "electron-installer-dmg": "^5.0.1",
