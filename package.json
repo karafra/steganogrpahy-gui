@@ -11,7 +11,7 @@
     "@mui/material": "^7.3.3",
     "@reduxjs/toolkit": "^2.9.0",
     "@types/jest": "^30.0.0",
-    "@types/node": "^24.6.0",
+    "@types/node": "^24.6.1",
     "@types/react": "^19.1.17",
     "@types/react-dom": "^19.1.10",
     "@types/react-test-renderer": "^19.1.0",
