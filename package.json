@@ -19,7 +19,7 @@
     "electron-is-dev": "^3.0.1",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.8",
-    "get-port": "^7.1.0",
+    "get-port": "^7.2.0",
     "prop-types": "^15.7.2",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
