@@ -5,7 +5,7 @@ Flask-Cors==6.0.2
 itsdangerous==2.2.0
 Jinja2==3.1.6
 MarkupSafe==3.0.3
-numpy==2.4.3
+numpy==2.4.4
 opencv-python==4.13.0.92
 pyinstaller==6.19.0
 pyinstaller-hooks-contrib==2026.3
