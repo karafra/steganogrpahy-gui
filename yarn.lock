@@ -12392,10 +12392,10 @@ react-dev-utils@^12.0.1:
     strip-ansi "^6.0.1"
     text-table "^0.2.0"
 
-react-dom@^19.2.4:
-  version "19.2.4"
-  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-19.2.4.tgz#6fac6bd96f7db477d966c7ec17c1a2b1ad8e6591"
-  integrity sha512-AXJdLo8kgMbimY95O2aKQqsz2iWi9jMgKJhRBAxECE4IFxfcazB2LmzloIoibJI3C12IlY20+KFaLv+71bUJeQ==
+react-dom@^19.2.5:
+  version "19.2.5"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-19.2.5.tgz#b8768b10837d0b8e9ca5b9e2d58dff3d880ea25e"
+  integrity sha512-J5bAZz+DXMMwW/wV3xzKke59Af6CHY7G4uYLN1OvBcKEsWOs4pQExj86BBKamxl/Ik5bx9whOrvBlSDfWzgSag==
   dependencies:
     scheduler "^0.27.0"
 
@@ -12440,7 +12440,7 @@ react-is@^18.3.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-18.3.1.tgz#e83557dc12eae63a99e003a46388b1dcbb44db7e"
   integrity sha512-/LLMVyas0ljjAtoYiPqYiL8VWXzUUdThrmU5+n20DZv+a+ClRoevUzw5JxU+Ieh5/c87ytoTBV9G1FiKfNJdmg==
 
-react-is@^19.2.3, react-is@^19.2.4, react-is@^19.2.5:
+react-is@^19.2.3, react-is@^19.2.5:
   version "19.2.5"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-19.2.5.tgz#7e7b54143e9313fed787b23fd4295d5a23872ad9"
   integrity sha512-Dn0t8IQhCmeIT3wu+Apm1/YVsJXsGWi6k4sPdnBIdqMVtHtv0IGi6dcpNpNkNac0zB2uUAqNX3MHzN8c+z2rwQ==
