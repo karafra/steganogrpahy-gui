@@ -21,7 +21,7 @@
     "enzyme-adapter-react-16": "^1.15.8",
     "get-port": "^7.2.0",
     "prop-types": "^15.7.2",
-    "react": "^19.2.7",
+    "react": "^19.2.8",
     "react-dom": "^19.2.7",
     "react-dropzone": "^19.1.1",
     "react-dropzone-uploader": "^2.11.0",
